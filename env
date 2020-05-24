@@ -1,0 +1,6 @@
+# port sharing
+SERVER_PORT=8804
+
+# (for Docker Hub purposes only)
+# Docker username
+DOCKER_USERNAME=aagnone
